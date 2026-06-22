@@ -1,3 +1,5 @@
+mod learn_types;
+
 fn main() {
-    println!("Hello, world!"); 
+    learn_types::entry_of_types();
 }
